@@ -13,7 +13,7 @@ const UpperBar = () => {
 							<span className="mr-2">
 								<FaEnvelope className="IEmail" />
 							</span>
-							<span>info@example.com</span>
+							<span>berchet.thomas@gmail.com</span>
 						</div>
 						{/* ============== EMAIL PORTION END =============== */}
 
@@ -22,7 +22,7 @@ const UpperBar = () => {
 							<span className="mr-1">
 								<FaPhoneAlt className="IPhone" />
 							</span>
-							<span>+92 01234 56789</span>
+							<span>+33 6176 3596</span>
 						</div>
 						{/* ============== PHONE PORTION END =============== */}
 					</div>

@@ -20,7 +20,7 @@ const Navbar = ({ ClickEvent }) => {
 				<div className="col-10 mx-auto">
 					<div className="NavbarContainer">
 						<Link to="upperNavbar" smooth={true} duration={600}>
-							<h1>Cloudy</h1>
+							<h1>QUASR Technologies</h1>
 						</Link>
 						<div onClick={ClickEvent} className="NavbarToggleBtn">
 							<button className="navbar-toggler collapsed" type="button">
@@ -54,7 +54,7 @@ const Navbar = ({ ClickEvent }) => {
 									spy={true}
 									offset={-200}
 								>
-									About
+									Projects
 								</Link>
 							</li>
 							<li>
@@ -65,7 +65,7 @@ const Navbar = ({ ClickEvent }) => {
 									duration={600}
 									spy={true}
 								>
-									Service
+									Portfolio
 								</Link>
 							</li>
 							<li>
@@ -77,7 +77,7 @@ const Navbar = ({ ClickEvent }) => {
 									spy={true}
 									offset={-120}
 								>
-									Hosting
+									Blog
 								</Link>
 							</li>
 							<li>

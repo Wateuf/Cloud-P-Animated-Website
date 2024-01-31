@@ -27,13 +27,13 @@ const Home = () => {
 			<div className="row align-items-center">
 				<div className="col-lg-6 col-md-12">
 					<h1 className="HLeftSideText">
-						<div>Best And Powerful</div>
-						<div>Hosting Service</div>
-						<div>Provider</div>
+						<div>Think. Develop.</div>
+						<div>Build. Provide.</div>
+
 					</h1>
 					<p className="HLeftSideBelowPara">
-						A managed hosting platform that facilitates choice, simplicity, and
-						performance.
+						A learning journey through the seas of coding, developing, Ai and GPTs building,
+						and eventualy more to come.
 					</p>
 					<Link to="hosting" smooth={true} duration={600} offset={-120}>
 						<div class="button" id="button-7">
@@ -43,7 +43,7 @@ const Home = () => {
 									alt=""
 								/>
 							</div>
-							<a href="upperNavbar">Start a Free Trail</a>
+							<a href="upperNavbar">Start your journey</a>
 						</div>
 					</Link>
 					<div className="HIconsContainer">

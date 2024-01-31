@@ -101,7 +101,7 @@ const WebDomain = () => {
 						{/* <!--start section heading--> */}
 						<div className="col-lg-6 offset-lg-3">
 							<div className="afterHeadingAnimationContainer WDHeadingContainer mb-4 text-center">
-								<h2>Search Your Web Domain</h2>
+								<h2>Find a topic</h2>
 							</div>
 						</div>
 						{/* <!--end section heading--> */}
@@ -115,25 +115,24 @@ const WebDomain = () => {
 										<input
 											type="text"
 											className="FormInputControl"
-											placeholder="Enter domain name here"
+											placeholder="Recherche..."
 										/>
 										<div className="DomainSelectContainer">
 											<span>
 												<i className="icofont-simple-down"></i>
 											</span>
 											<select className="form-control">
-												<option>.com</option>
-												<option>.net</option>
-												<option>.org</option>
-												<option>.biz</option>
-												<option>.uk</option>
+												<option>Python</option>
+												<option>HTML/CSS</option>
+												<option>react</option>
+												<option>AI/GPT</option>
 											</select>
 										</div>
 										<button type="submit">Search</button>
 									</div>
 								</form>
 							</div>
-							{/* <!--start domain price--> */}
+							{/* <!--start domain price--> 
 							<div className="DomainPricesContainer">
 								<ul>
 									<li>

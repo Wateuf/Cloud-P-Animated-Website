@@ -79,7 +79,7 @@ const Footer = () => {
 										data-aos-offset="120"
 										className="FooterTextContainer"
 									>
-										<h2>Cloudy</h2>
+										<h2>QUASAR Technologies</h2>
 										<p>
 											<br /> It is a long established fact that a reader will be
 											distracted by the readable content.
@@ -121,7 +121,7 @@ const Footer = () => {
 											>
 												<a href="upperNavbar">
 													<AiFillCaretLeft className="FooterListIcons" />
-													About Us
+													About me
 												</a>
 											</li>
 											<li
@@ -151,7 +151,7 @@ const Footer = () => {
 											>
 												<a href="upperNavbar">
 													<AiFillCaretLeft className="FooterListIcons" />
-													Contact Us
+													Contact
 												</a>
 											</li>
 										</ul>
@@ -171,7 +171,7 @@ const Footer = () => {
 										data-aos-offset="120"
 										className="footer-title"
 									>
-										About Us
+										About me
 									</h4>
 									<div className="menu-about">
 										<ul id="menu-about-menu" className="menu">
@@ -182,7 +182,7 @@ const Footer = () => {
 											>
 												<a href="upperNavbar">
 													<AiFillCaretLeft className="FooterListIcons" />
-													About Us
+													About me
 												</a>
 											</li>
 											<li
@@ -293,7 +293,7 @@ const Footer = () => {
 											>
 												<a href="upperNavbar">
 													<AiFillCaretLeft className="FooterListIcons" />
-													Contact Us
+													Contact
 												</a>
 											</li>
 										</ul>
@@ -313,7 +313,7 @@ const Footer = () => {
 										data-aos-offset="120"
 										className="footer-title "
 									>
-										Contact Us
+										Contact
 									</h4>
 									<div className="row">
 										<div className="col-sm-12">
@@ -329,7 +329,7 @@ const Footer = () => {
 															className="FooterAddressIcon FooterListIcons"
 														/>
 														&nbsp; &nbsp;
-														<span>Karachi, Pakistan</span>
+														<span>Grenoble, FRANCE</span>
 													</a>
 												</li>
 												<li
@@ -340,7 +340,7 @@ const Footer = () => {
 													<a href="mailto:support@iqnonicthemes.com">
 														<FaEnvelope className="FooterAddressIcon FooterListIcons" />
 														&nbsp; &nbsp;
-														<span>support@iqnonicthemes.com</span>
+														<span>support@quasrtech.io</span>
 													</a>
 												</li>
 												<li
@@ -348,10 +348,10 @@ const Footer = () => {
 													data-aos-duration="1200"
 													data-aos-offset="120"
 												>
-													<a href="tel:+0123456789">
+													<a href="tel:+33-617633596">
 														<AiFillPhone className="FooterAddressIcon FooterListIcons" />
 														&nbsp; &nbsp;
-														<span>+0123456789</span>
+														<span>+33-617633596</span>
 													</a>
 												</li>
 											</ul>

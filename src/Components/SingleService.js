@@ -29,7 +29,7 @@ const SingleService = ({ Heading, Logo }) => {
 					</h3>
 				</div>
 				<p data-aos="fade-up" data-aos-duration="1000" data-aos-offset="320">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+					35 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 					eiusmod tempor incididunt ut labore et dolore magna aliqua.
 				</p>
 				<a
